@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ba85be8303313da43902f885bdba24bc
+guid: caa1d6b2f3de17f4e8ca1ed86fe47692
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -8,9 +8,9 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontName: FunkyJunk
+  fontName: Suiren
   fontNames:
-  - FunkyJunk
+  - Suiren
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
